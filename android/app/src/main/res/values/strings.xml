@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">T0NshYi9X8nRkIe_cIRZGbAut90a6dec4087-57cf-4c9d-b0dc-ad38ce431e1d</string>
+    <string name="app_name">dounineApp</string>
+</resources>
